@@ -21,4 +21,4 @@ env/
 Thumbs.db
 
 # License files (測試用)
-.*_license
+.*_license.claude/
